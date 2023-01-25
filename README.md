@@ -1,2 +1,2 @@
 # CS_260_StartUpApp
-Course Project
+This is a semester-long course project for CS 260 (Web Design). 
