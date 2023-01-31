@@ -13,3 +13,7 @@ Then, as I add upcoming events, tasks, and reminders I could assign them to one 
 ### GitHub Assignment
 - In order to avoid git merges, pull and push often. 
 - Backup often and use branches so all of your work is safe. 
+
+### AWS EC2 Assignment 
+- http://52.14.235.244/
+- ssh -i /home/jyankura/.ssh/Amazon_Web_Services.pem ubuntu@52.14.235.244
