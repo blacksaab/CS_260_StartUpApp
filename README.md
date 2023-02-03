@@ -21,3 +21,7 @@ Then, as I add upcoming events, tasks, and reminders I could assign them to one 
 ### AWS - Route 53 Assignment 
 - http://boldandbrash.org 
 - http://*.boldandbrash.org
+
+### HTTPS, TLS, and Web Certificates Assignment 
+- Caddy automatically requests web certificates 
+- https is practically required for all websites and web applications today. 
